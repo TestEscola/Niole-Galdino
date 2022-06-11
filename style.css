@@ -1,0 +1,51 @@
+.gatos{ 
+     height:100px;
+     background-color: rgb(8, 181, 250);
+     border-radius: 30px;
+     box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+}
+
+
+.miau{
+list-style:none; 
+display: flex;
+justify-content: right;
+padding: 40px;
+}
+
+nav ul li{
+    margin:20px;
+}
+
+.caixa{
+     width: 300px;
+     height: 600px;
+     background-color: rgb(0, 162, 255);
+     border-radius: 30px;
+     box-shadow: 5px 5px 20px  rgba(0,0,0,0.7);
+     position:relative;
+     top: 20px;
+     float: right;
+
+}
+
+body {
+     background-image: url(walpaper.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.menu2{
+  list-style:none;
+  font-size: x-large;
+  font-family:'comic sans ms';
+}
+
+.caixa2{
+ position: absolute;
+ left: 300px;
+ top: 100px;
+ color:rgb(109, 4, 247);
+ font-size: x-large;
+font-family: 'comic sans ms'
+}
